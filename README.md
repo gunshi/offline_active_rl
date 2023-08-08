@@ -2,6 +2,8 @@
 
 Code for the paper: Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?
 
+Gunshi_Gupta, Tim G. J. Rudner, Rowan Thomas McAllister, Adrien Gaidon, Yarin Gal
+
 Link: https://openreview.net/forum?id=gp2sUQ0uIxx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dcclear.cc%2FCLeaR%2F2023%2FConference%2FAuthors%23your-submissions)
 
 
